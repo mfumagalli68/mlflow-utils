@@ -1,9 +1,8 @@
 # mlflow-utils
 
-Utils mlflow
+Delete old run from mlflow storage location ( only local)
 
-
-Python script clean.py to clean old run in mlflow storage directory.
+Mlflow won't allow ( for now ) a feature for permanently deleting https://github.com/mlflow/mlflow/issues/2152
 
 Usage:
 
