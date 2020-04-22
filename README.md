@@ -7,5 +7,5 @@ Mlflow won't allow ( for now ) a feature for permanently deleting https://github
 Usage:
 
 ```bash
-python clean_mlflow.py --mlflowloc=./mlruns --old=100
+python clean.py --mlflowloc=./mlruns --old=100
 ```
